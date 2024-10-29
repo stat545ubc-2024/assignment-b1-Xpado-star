@@ -2,5 +2,8 @@
 
 
 Both the RMD and HTML files can be found at the high level of this github repository.
+
 This github repository is specifically for assignment B1 of STAT 545. 
+
 All work from the github depository is done solely by David Tan
+
