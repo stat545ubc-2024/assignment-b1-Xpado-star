@@ -2,7 +2,7 @@
 title: "DT Assignment B1"
 author: "DT"
 date: "2024-10-29"
-output: html_document
+output: md_document
 ---
 ```{r setup, include=FALSE}
 # Install roxygen2 if you haven't already
